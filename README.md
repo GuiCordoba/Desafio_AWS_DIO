@@ -10,7 +10,7 @@ Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unim
 - Cidade mais populosa - São Paulo-SP
 - Cidade menos populosa - Anhanguera-GO
 - Cidades mais e menos populosas por estado:
-  - Acrre - Rio Branco e Santa Rosa do Purus;
+  - Acre - Rio Branco e Santa Rosa do Purus;
   - Alagoas - Maceió e Pindoba;
   - Amapá - Macapa e Pracuúba;
   - Amazonas - Manaus e Japurá;
@@ -32,7 +32,7 @@ Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unim
   - Rondônia -Porto Velho e Primavera de Rondônia;
   - Roraima - Boa Vista e São Luiz;
   - Santa Catarina - Joinville e Paial;
-  - São Paulo -São Paulo Uru;
+  - São Paulo - São Paulo Uru;
   - Sergipe - Aracaju e Amparo de São Francisco
   - Tocantins - Palmas eAbreulândia;
   - Distrito Federal - Brasília
