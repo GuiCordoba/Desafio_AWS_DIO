@@ -9,7 +9,33 @@ Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unim
 - Região menos populosa - Centro-Oeste
 - Cidade mais populosa - São Paulo-SP
 - Cidade menos populosa - Anhanguera-GO
-
+- Cidades mais e menos populosas por estado:
+  - Acrre - Rio Branco e Santa Rosa do Purus;
+  - Alagoas - Maceió e Pindoba;
+  - Amapá - Macapa e Pracuúba;
+  - Amazonas - Manaus e Japurá;
+  - Bahia - Salvador e Laje;
+  - Ceará - Fortaleza e Guaramiranga;
+  - Espírito Santo - Serra e Divino de São Lourenço;
+  - Goiás - Goiâna e Anhanguera;
+  - Maranhão - São Luís e Junco do Maranhão;
+  - Mato Grosso - Cuiabá e Ponte Branca;
+  - Mato Grosso do Sul - Campo Grande e Alcinópolis;
+  - Minas Gerais - Belo Horizonte e Senador José Bento;
+  - Pará - Belém e Bannach;
+  - Paraná - Curitiba e Nova Aliança do Ivaí;
+  - Pernambuco - Recife e Fernando de Noronha;
+  - Piauí - Teresina e São Miguel da Baixa Grande;
+  - Rio de Janeiro - Rio de Janeiro e Macuco;
+  - Rio Grande do Norte - Natal eTaboleiro Grande;
+  - Rio Grande do Sul - Porto Alegre e Vista Alegre do Prata;
+  - Rondônia -Porto Velho e Primavera de Rondônia;
+  - Roraima - Boa Vista e São Luiz;
+  - Santa Catarina - Joinville e Paial;
+  - São Paulo -São Paulo Uru;
+  - Sergipe - Aracaju e Amparo de São Francisco
+  - Tocantins - Palmas eAbreulândia;
+  - Distrito Federal - Brasília
 
 
 ### Serviços utilizados nessa atividade prática
