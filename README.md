@@ -2,7 +2,7 @@
 
 Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unimed-BH - Ciência de Dados.
 
-### Algumas Informações retiradas do banco de dados:
+### Algumas Informações retiradas do banco de dados estudado:
 - Estado mais populoso - São Paulo
 - Estado menos populoso - Roraima
 - Região mais populosa - Sudeste
