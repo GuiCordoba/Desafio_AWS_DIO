@@ -1,5 +1,6 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+# Explorndo Dados Demograficos com Serviço de Big Data na AWS
+
+Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unimed-BH - Ciência de Dados.
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
