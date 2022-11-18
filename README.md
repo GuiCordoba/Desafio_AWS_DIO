@@ -1,6 +1,16 @@
-# Explorndo Dados Demograficos com Serviço de Big Data na AWS
+# Explorndo Dados Demograficos do Brasil com Serviço de Big Data na AWS
 
 Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unimed-BH - Ciência de Dados.
+
+### Algumas Informações retiradas do banco de dados:
+- Estado mais populoso - São Paulo
+- Estado menos populoso - Roraima
+- Região mais populosa - Sudeste
+- Região menos populosa - Centro-Oeste
+- Cidade mais populosa - São Paulo-SP
+- Cidade menos populosa - Anhanguera-GO
+
+
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
